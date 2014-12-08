@@ -11,4 +11,4 @@ To install:
 
 You can edit the config.json file to change the webroot and server port.
 
-Note: Ensure your GOPATH is set to /var/apps/gowebserver. You can run "echo $GOPATH" to get the current version and run "export GOPATH=/var/apps/gowebserver" to change it.
+Note: Ensure your GOPATH is set to /var/apps/gowebserver. You can run "echo $GOPATH" to get the current version and run "export GOPATH=/var/apps/gowebserver" to change it, if needed.
