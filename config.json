@@ -1,0 +1,4 @@
+{
+    "webroot": "/var/apps/gowebserver/web",
+    "port": "8080"
+}
