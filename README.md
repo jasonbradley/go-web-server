@@ -6,5 +6,5 @@ To install:
 
 1. vagrant up
 2. vagrant ssh
-3. go run ./src/webserver.go
+3. "go run ./src/webserver.go"
 4. Open your browser and navigate to localhost:8080/index.html
