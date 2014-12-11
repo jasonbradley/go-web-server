@@ -1,4 +1,5 @@
 .vagrant
+/bin/*
 *.o
 *.a
 *.so
@@ -19,6 +20,6 @@ _cgo_export.*
 
 _testmain.go
 
-*.exe
+i*.exe
 *.test
 *.prof
